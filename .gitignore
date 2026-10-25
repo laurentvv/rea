@@ -70,3 +70,6 @@ Thumbs.db
 
 # Complete static website output, including generated language editions.
 website/_site/
+# Agent local state (ledger, installed skills) - kept on disk, never committed
+.agent/
+.agents/
